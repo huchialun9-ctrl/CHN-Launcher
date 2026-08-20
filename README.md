@@ -1,33 +1,7 @@
 # CHN-Launcher
 
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="100%" height="auto">
-    <rect width="1280" height="400" fill="#09090b"/>
-    <defs>
-      <pattern id="dot-grid" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
-        <circle cx="2" cy="2" r="1" fill="#27272a"/>
-      </pattern>
-    </defs>
-    <rect width="1280" height="400" fill="url(#dot-grid)"/>
-    <rect x="1" y="1" width="1278" height="398" fill="none" stroke="#27272a" stroke-width="2"/>
-    <g transform="translate(120, 100)">
-      <rect x="0" y="0" width="200" height="200" rx="44" fill="#18181b" stroke="#3f3f46" stroke-width="2"/>
-      <path d="M 140 40 H 80 L 45 75 V 125 L 80 160 H 140 V 130 H 90 L 75 115 V 85 L 90 70 H 140 Z" fill="#ffffff"/>
-      <rect x="110" y="85" width="30" height="30" fill="#ffffff"/>
-    </g>
-    <g transform="translate(380, 160)">
-      <text x="0" y="0" fill="#ffffff" font-family="'JetBrains Mono', 'SF Pro Display', -apple-system, monospace" font-size="64" font-weight="900" letter-spacing="-2">CHN LAUNCHER</text>
-      <text x="0" y="44" fill="#a1a1aa" font-family="'JetBrains Mono', monospace" font-size="20" font-weight="500" letter-spacing="2">ULTRA-MINIMAL GAME AGGREGATOR &amp; RUNNER</text>
-      <g transform="translate(0, 75)">
-        <rect x="0" y="0" width="80" height="24" rx="4" fill="#27272a"/>
-        <text x="40" y="16" fill="#f4f4f5" font-family="monospace" font-size="11" font-weight="700" text-anchor="middle">RUST</text>
-        <rect x="90" y="0" width="90" height="24" rx="4" fill="#27272a"/>
-        <text x="135" y="16" fill="#f4f4f5" font-family="monospace" font-size="11" font-weight="700" text-anchor="middle">TAURI V2</text>
-        <rect x="190" y="0" width="110" height="24" rx="4" fill="#27272a"/>
-        <text x="245" y="16" fill="#f4f4f5" font-family="monospace" font-size="11" font-weight="700" text-anchor="middle">OPEN SOURCE</text>
-      </g>
-    </g>
-  </svg>
+  <img src="IMG_6992.jpeg" alt="CHN Launcher Banner" width="100%">
 </p>
 
 <p align="center">
